@@ -1,0 +1,16 @@
+.bg-img {
+  background-image: url("https://img.freepik.com/free-vector/vector-cartoon-background-basketball-court-tropic-city_33099-1218.jpg?w=1480&t=st=1667267700~exp=1667268300~hmac=f3cc71e3aea5f6273b91e5500043fed5837e59e4b811308fd3a82eb5fedb0d62");
+
+}
+
+.btn-vfx {
+  background-color: black;
+  color: white;
+}
+
+.container-size {
+  background-color: rgb(128, 243, 124);
+  width: 500px;
+  height: 300px;
+  justify-content: center;
+}
